@@ -9,3 +9,6 @@
 
 3. **brain-gcd game** - *find greater devider*
 [![asciicast](https://asciinema.org/a/Qg6XPvdPEDByUW830GkXa1RYQ.svg)](https://asciinema.org/a/Qg6XPvdPEDByUW830GkXa1RYQ)
+
+4. **brain-progression game** - *find missig number in arithmetic progression*
+[![asciicast](https://asciinema.org/a/dOA2ByOmzgBkAPuycgLrcC3JV.svg)](https://asciinema.org/a/dOA2ByOmzgBkAPuycgLrcC3JV)
